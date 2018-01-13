@@ -1,0 +1,4 @@
+CS 290, Homework Assignment #1
+Nicole Shumer
+January 13, 2018
+This is file #2 in my github repository.
